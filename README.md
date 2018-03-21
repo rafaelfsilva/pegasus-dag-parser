@@ -1,2 +1,2 @@
 # pegasus-dag-parser
-JSON Parser for Pegasus DAGMan file
+JSON Parser for Pegasus DAG file
